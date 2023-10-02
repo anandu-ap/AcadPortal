@@ -1,0 +1,8 @@
+                                        TRANSCRIPT
+
+Student Name : RAKESH			Entry No : 2015CSB1100
+Program : BTech			Batch : 2015
+Department : Computer Science and Engineering
+
+Academic Section    Course Code         Title                                             Credits        Grade          
+2015-M              CS304               Computer Networks                                 4              NA             
